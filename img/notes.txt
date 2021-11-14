@@ -1,0 +1,18 @@
+# build tools:
+- package manager: NPM.
+- workflow automator: Gulp.js.
+- HTML rendere package: Pug.js
+- CSS preproccessor: SCSS.
+
+# social metadata: => https://metatags.io/
+
+# theme: light/dark mode Neomorphism style => https://neumorphism.io/
+
+# font: Poppins => https://fonts.google.com/specimen/Poppins
+
+# icons: Lineicons => https://lineicons.com/docs/
+
+# colors: 
+primary => to right, 3E00FF, AE00FB
+
+# light/dark mode: (search for it)
